@@ -26,7 +26,7 @@
     <script>
        var num=9387.348;
        var inum=num.toFixed(2);
-       h2.innerHTML=inum;
+       h3.innerHTML=inum;
     </script>
 
 4.一张图片是一个相对路径img/head/icon/1.jpg,我只需要拿到它的文件夹目录后显示在页面id为h4的元素中
